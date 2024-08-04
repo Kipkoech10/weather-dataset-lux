@@ -1,3 +1,4 @@
+
 # Weather Data Analysis
 
 This project analyzes a weather dataset using both Python and SQL. It answers various questions about weather conditions, wind speed, visibility, and more.
